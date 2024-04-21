@@ -3,7 +3,7 @@
 I'm a 21-year-old Frontend developer based in Pakistan, infusing digital landscapes with creativity and purpose.
 
 - Check out my [portfolio](https://portfolio-teal-eta-89.vercel.app/) to learn more about me.
-- I'm Currently working on a Translate app Project
+- I'm currently working on an Enviornmental Impact Tracker
 
 ### Tech Stack
 
